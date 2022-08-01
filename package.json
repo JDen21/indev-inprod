@@ -1,0 +1,23 @@
+{
+  "name": "indev-inprod",
+  "version": "1.0.0",
+  "description": "run specified codes in either production or development mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDen21/indev-inprod.git"
+  },
+  "keywords": [
+    "development",
+    "production"
+  ],
+  "author": "denosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDen21/indev-inprod/issues"
+  },
+  "homepage": "https://github.com/JDen21/indev-inprod#readme"
+}
